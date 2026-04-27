@@ -115,7 +115,7 @@
                         <bibl> Coenen, Marc, “The Egyptian Funerary Papyri of the Bodleian Library,”
                               <title>Bodleian Library Record</title> 16 (1999), <ref
                               target="https://liverpooluniversitypress.co.uk/doi/10.3828/blr.1999.16.6.450"
-                              >450–469</ref>: 452-453. </bibl>
+                              >450–469</ref>: 453-454. </bibl>
                         <bibl> Coenen, Marc, “The Funerary Papyri of the Bodleian Library at
                            Oxford,” <title>Journal of Egyptian Archaeology</title> 86 (2000), <ref
                               target="https://www.jstor.org/stable/3822309?seq=2">81–98</ref>:
@@ -129,6 +129,8 @@
                         <bibl>Totenbuch-Projekt (online) <ref
                               target="https://totenbuch.awk.nrw.de/objekt/tm57053#">TM
                            57053</ref></bibl>
+                        <bibl xml:id="TBP"><ref target="http://www.trismegistos.org/text/57053"
+                              ><title>Totenbuchprojekt Bonn, TM 57053</title></ref></bibl>
                      </listBibl>
                   </listBibl>
                </additional>
